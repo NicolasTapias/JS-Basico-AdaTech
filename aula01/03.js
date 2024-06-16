@@ -14,5 +14,5 @@ console.log(Boolean(2));
 
 // coerção implícita
 
-console.log(1 + "1");
+console.log(2 + "1");
 console.log(10 - "5");
